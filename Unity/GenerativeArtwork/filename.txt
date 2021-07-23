@@ -1,0 +1,213 @@
+Array
+(
+    [0] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4287681182_bside_25612
+            [ss] => 19.234466552734375
+        )
+
+    [1] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4282887822_bside_24127
+            [ss] => 4.098557472229004
+        )
+
+    [2] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4282887822_bside_24269
+            [ss] => 1.988576889038086
+        )
+
+    [3] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4281614867_bside_24278
+            [ss] => 1.2422332763671875
+        )
+
+    [4] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4284529300_bside_31089
+            [ss] => 1.1410255432128906
+        )
+
+    [5] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => SoftHighlighter_4280366384_bside_24124
+            [ss] => 0.6799983978271484
+        )
+
+    [6] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4285293598_bside_25611
+            [ss] => 0.6399974822998047
+        )
+
+    [7] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => ThickPaint_6780211_bside_25643
+            [ss] => 0.5399990081787109
+        )
+
+    [8] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => ThickPaint_5407014_bside_30564
+            [ss] => 0.5399990081787109
+        )
+
+    [9] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => SoftHighlighter_4280366384_bside_21009
+            [ss] => 0.5200004577636719
+        )
+
+    [10] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4289516176_bside_30597
+            [ss] => 0.5
+        )
+
+    [11] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4279659558_bside_26872
+            [ss] => 0.40000152587890625
+        )
+
+    [12] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4284529300_bside_31057
+            [ss] => 0.3600006103515625
+        )
+
+    [13] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => Ink_4285647795_bside_24402
+            [ss] => 0.3091888427734375
+        )
+
+    [14] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4282887822_bside_24126
+            [ss] => 0.2800006866455078
+        )
+
+    [15] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4284529300_bside_30651
+            [ss] => 0.2800006866455078
+        )
+
+    [16] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4284529300_bside_30993
+            [ss] => 0.279998779296875
+        )
+
+    [17] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4281614867_bside_26890
+            [ss] => 0.26000022888183594
+        )
+
+    [18] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4289516176_bside_31012
+            [ss] => 0.26000022888183594
+        )
+
+    [19] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4284529300_bside_24419
+            [ss] => 0.18000030517578125
+        )
+
+    [20] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => SoftHighlighter_4280366384_bside_20826
+            [ss] => 0.07783126831054688
+        )
+
+    [21] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4284529300_bside_31331
+            [ss] => 0.06162452697753906
+        )
+
+    [22] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4278196668_bside_37147
+            [ss] => 0.060001373291015625
+        )
+
+    [23] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4282015242_bside_31068
+            [ss] => 0.05999946594238281
+        )
+
+    [24] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4284529300_bside_31112
+            [ss] => 0.04000091552734375
+        )
+
+    [25] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4283469365_bside_30080
+            [ss] => 0.04000091552734375
+        )
+
+    [26] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4285956128_bside_26552
+            [ss] => 0.04000091552734375
+        )
+
+    [27] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4285956128_bside_27123
+            [ss] => 0.04000091552734375
+        )
+
+    [28] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4284124998_bside_30321
+            [ss] => 0.04000091552734375
+        )
+
+    [29] => Array
+        (
+            [ExperimentID] => 3
+            [DetectedObject] => WetPaint_4280295582_bside_24049
+            [ss] => 0.04000091552734375
+        )
+
+)

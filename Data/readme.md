@@ -43,6 +43,7 @@ Consider citing the following papers:
   title={User attention and behaviour in virtual reality art encounter},
   author={Mu, Mu and Dohan, Murtada and Goodyear, Alison and Hill, Gary and Johns, Cleyon and Mauthe, Andreas},
   journal={arXiv preprint arXiv:2005.10161},
+  url={https://arxiv.org/abs/2005.10161},
   year={2020}
 }
 ```

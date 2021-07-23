@@ -1,3 +1,6 @@
 [submodule "tiltbrushfbxexport"]
 	path = tiltbrushfbxexport
 	url = https://github.com/MrMMu/tiltbrushfbxexport.git
+[submodule "Understand-User-attention-VR-Using-Eye-Tracking"]
+	path = Understand-User-attention-VR-Using-Eye-Tracking
+	url = https://github.com/Murtada100/Understand-User-attention-VR-Using-Eye-Tracking.git

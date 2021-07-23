@@ -1,0 +1,3 @@
+[submodule "tiltbrushfbxexport"]
+	path = tiltbrushfbxexport
+	url = https://github.com/MrMMu/tiltbrushfbxexport.git
